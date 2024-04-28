@@ -1,0 +1,11 @@
+				<!-- var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+				var rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+				rect.setAttribute('x',0);
+				rect.setAttribute('y',0);
+				rect.setAttribute('width',width.value*conversion);
+				rect.setAttribute('height',height.value*conversion);
+				rect.setAttribute('class', 'sheet');
+				svg.appendChild(rect); -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <rect x="0" y="0" width="100" height="100" class="sheet"></rect>
+</svg>
